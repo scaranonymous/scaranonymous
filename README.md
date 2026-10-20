@@ -1,4 +1,5 @@
 Politique de confidentialité de MASTERMIND
+
 MASTERMIND est une application éditée sous le nom SCARANONYMOUS PROD, destinée à un public de 13 ans et plus. Pour toute question concernant vos données : scaranonymous.prod@gmail.com.
 
 Données traitées
